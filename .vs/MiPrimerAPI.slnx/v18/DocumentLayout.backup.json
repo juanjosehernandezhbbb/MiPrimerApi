@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\services\\externalapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:services\\externalapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\controllers\\externalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:controllers\\externalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\externalservices\\userapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:externalservices\\userapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\controllers\\externaluserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:controllers\\externaluserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\models\\userapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:models\\userapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\miprimerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:miprimerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|c:\\users\\frank\\onedrive\\desktop\\itla\\itla c-4\\programacion2\\miprimerapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0034436-1DEF-4090-AB61-64ABB75E8C96}|MiPrimerAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExternalController.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Controllers\\ExternalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExternalController.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Controllers\\ExternalController.cs",
+              "RelativeToolTip": "Controllers\\ExternalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:27:22.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:33:39.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:26:39.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserApiService.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\ExternalServices\\UserApiService.cs",
+              "RelativeDocumentMoniker": "ExternalServices\\UserApiService.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\ExternalServices\\UserApiService.cs",
+              "RelativeToolTip": "ExternalServices\\UserApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:43:43.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExternalApiService.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Services\\ExternalApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ExternalApiService.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Services\\ExternalApiService.cs",
+              "RelativeToolTip": "Services\\ExternalApiService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:47:28.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-18T16:10:12.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:29:17.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:33:06.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:35:20.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:44:14.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExternalUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Controllers\\ExternalUsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExternalUsersController.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Controllers\\ExternalUsersController.cs",
+              "RelativeToolTip": "Controllers\\ExternalUsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:48:01.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Models\\UserApiResponse.cs",
+              "RelativeDocumentMoniker": "Models\\UserApiResponse.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Models\\UserApiResponse.cs",
+              "RelativeToolTip": "Models\\UserApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:43:21.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:06:22.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:29:09.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T15:26:10.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MiPrimerAPI",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\MiPrimerAPI.csproj",
+              "RelativeDocumentMoniker": "MiPrimerAPI.csproj",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\MiPrimerAPI.csproj*",
+              "RelativeToolTip": "MiPrimerAPI.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-18T15:23:36.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\Desktop\\ITLA\\ITLA C-4\\Programacion2\\MiPrimerAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T15:23:07.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
